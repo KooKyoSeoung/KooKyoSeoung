@@ -24,5 +24,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KooKyoSeoung&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={smugc201811141})](https://solved.ac/{smugc201811141})
+    [![Solved.ac 
+    프로필](http://mazassumnida.wtf/api/generate_badge?boj={smugc201811141})](https://solved.ac/{smugc201811141})
     
